@@ -1,0 +1,3 @@
+id_client   consommation_annuelle   annee
+8	5677	2022
+9	4989	2022

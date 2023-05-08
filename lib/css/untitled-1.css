@@ -1,0 +1,18 @@
+.underline:after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  border-radius: 5px;
+  background: #5f266d;
+  z-index: -1;
+}
+.text-start {
+  padding-top: 8rem !important;
+  padding-bottom: 5rem;
+}
+.img-fluid-cs {
+  max-width: 127%;
+}

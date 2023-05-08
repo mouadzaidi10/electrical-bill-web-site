@@ -1,0 +1,3 @@
+id_client   consommation_annuelle   annee
+4	4563	2022
+5	3989	2022
